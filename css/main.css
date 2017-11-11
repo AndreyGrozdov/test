@@ -1,0 +1,71 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+header {
+	background: url(../img/1.png) no-repeat center top / cover;
+	height: 420px;
+}
+section {
+	background: url(../img/5.png) ;
+	height: 2000px;
+}
+.container {
+	width: 1300px;	
+	margin: 0 auto;
+	
+}
+   
+.logo { 
+	text-align: center; 
+	margin-top: 0px; 
+	position: relative; 
+	top:50px; 
+} 
+
+
+.services{
+	text-align: center; /* Выравнивание по центру */ 
+	margin-top: 0px; /* Отступ сверху */ 
+	position: relative; 
+	top:680px; 
+}
+.services_item{
+	width: 270px;
+	float: left;
+	text-align: center;
+
+}
+.services_item h3{
+font-size: 20px;
+}
+
+.services_item:last-child {
+	float:right;
+}
+.services_item:nth-child(2) {
+	margin-left: 240px;
+}
+
+.bord{
+	position: relative; 
+	top:50px; 
+	padding: 5px; /* Поля вокруг текста */
+    background:  url(../img/prod.jpg) no-repeat center top / cover; /* Цвет фона */
+    margin: 0 auto; /* Выравниваем слой по центру */
+    opacity: 0.2; /* Значение прозрачности */
+    height: 500px; /* Высота блока */
+    width: 100%; /* Ширина блока */
+}
+
+.text {
+	text-align: center; /* Выравнивание по центру */ 
+	margin-left: 50px;
+	margin-right: 50px;
+	color:#9E0000;
+	font-size: 30px;
+	position: relative; 
+	top:-470px; 
+	/*text-shadow: 3px 2px 1px black, 0 0 1em black; /* Параметры тени */
+}
