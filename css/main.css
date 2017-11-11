@@ -4,7 +4,7 @@ body {
 	margin: 0;
 }
 header {
-	background: url(../img/1.png) no-repeat center top / cover;
+	background: url(../img/1.png) ;
 	height: 420px;
 }
 section {
@@ -30,6 +30,8 @@ section {
 	margin-top: 0px; /* Отступ сверху */ 
 	position: relative; 
 	top:680px; 
+	color:#2B4547;
+	
 }
 .services_item{
 	width: 270px;
@@ -63,9 +65,20 @@ font-size: 20px;
 	text-align: center; /* Выравнивание по центру */ 
 	margin-left: 50px;
 	margin-right: 50px;
-	color:#9E0000;
+	color:#2B4547;
 	font-size: 30px;
 	position: relative; 
 	top:-470px; 
-	/*text-shadow: 3px 2px 1px black, 0 0 1em black; /* Параметры тени */
+	
+}
+
+.text2 {
+	text-align: left; /* Выравнивание по центру */ 
+	margin-left: 50px;
+	margin-right: 50px;
+	color:#2B4547;
+	font-size: 30px;
+	position: relative; 
+	top:10px; 
+	
 }
