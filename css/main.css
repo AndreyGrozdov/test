@@ -5,21 +5,23 @@ body {
 }
 
 dt{
-	border: 1px solid black;
+	border: 1px solid none;
 	background: #FF7E21; 
 	padding: 5px;
 	margin:5px;
 	border-radius: 5px; 
+	font-weight: 600; /* Жирное начертание */
 
 }
 dt:hover{
-	border: 5px solid black;
+	border: 5px solid none;
 	background: #FBE73A; 
 	padding: 5px;
 	margin:5px;
+	font-weight: 600; /* Жирное начертание */
 }
 
-a {
+.aa {
      display: block; /* Ссылка как блочный элемент */
      text-align: center; /* Выравнивание по центру */
      color: #154F1A;
@@ -31,7 +33,7 @@ a {
     height: 100%; /* Высота блока */
     width: 11%; /* Ширина блока */
     background: url(../img/1.png); /* Цвет фона */ 
-    border: 1px solid #333; /* Параметры рамки */ 
+    border: 1px solid none; /* Параметры рамки */ 
     float: left; 
    }
 
@@ -78,7 +80,7 @@ a {
  	font-family:ormal;
 }
 .txt2	{
-margin-top: 200px;
+		margin-top: 200px;
 }
 
   #third {
@@ -90,6 +92,26 @@ margin-top: 200px;
 
   }
 
+
+.text3 {
+	text-align: center; ;
+ 	color:#2B4547;
+ 	width:500px;
+ 	height:500px;
+ 	margin:auto;
+ 	padding: 60px;
+ 	font-family:ormal;
+ 	background: #F9EFF5;
+ 	border: 10px solid #DEDCDB;
+
+ 	
+}
+
+
+
+.txt3	{	
+	margin-top: 200px;
+}	
 
 
 
