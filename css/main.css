@@ -113,5 +113,10 @@ dt:hover{
 	margin-top: 200px;
 }	
 
-
+  #for  {
+    width: 89%;
+    height: 1000px;
+    background:url(../img/2.png);
+    float: right; 
+}
 
