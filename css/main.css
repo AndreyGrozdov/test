@@ -56,7 +56,7 @@ dt:hover{
  .text	{
 	text-align: center;
  	color:#2B4547;
- 	width: 1200px;
+ 	width: 100%;
  	margin:auto;
  	font-family:ormal;
  }
@@ -66,7 +66,7 @@ dt:hover{
  
   #second {
   	width: 89%;
-  	height: 1000px;
+  	height: 100%;
   	background:url(../img/4.png);
   	float: right; 
 
@@ -75,7 +75,7 @@ dt:hover{
 .text2	{
 	text-align: justify;
  	color:#2B4547;
- 	width: 1200px;
+ 	width: 100%;
  	margin:auto;
  	font-family:ormal;
 }
@@ -85,7 +85,7 @@ dt:hover{
 
   #third {
   	width: 89%;
-  	height: 1000px;
+  	height: 100%;
   	background:url(../img/3.png);
   	float: right; 
   	
@@ -115,7 +115,7 @@ dt:hover{
 
   #for  {
     width: 89%;
-    height: 1000px;
+    height: 100%;
     background:url(../img/2.png);
     float: right; 
 }
