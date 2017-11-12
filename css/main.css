@@ -72,6 +72,11 @@ dt:hover{
 
 
   }
+
+
+
+  
+
 .text2  {
   text-align: justify;
   color:#2B4547;
@@ -90,7 +95,6 @@ dt:hover{
     background:url(../img/2.png);
     float: right; 
 }
-
 
   #third {
     width: 89%;
