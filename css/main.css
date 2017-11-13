@@ -135,7 +135,7 @@ dt:hover{
 #slider { /*положение слайдера*/
     position: relative;
   text-align: center;
-    top: 250px;
+    top: 150px;
 }
 
 #slider{ /*центровка слайдера*/
@@ -267,4 +267,13 @@ label, a{ /*при наведении на стрелки или переклю�
 
 #controls label{ /*прозрачность стрелок при отводе курсора*/
   transition: opacity 0.2s ease-out;
+}
+
+
+.text4  {
+  position: relative;
+  text-align: center;
+  color: #DE5246;
+   top: 20px;
+   font-size: 35px;
 }
