@@ -79,13 +79,17 @@ dt:hover{
 
 .text2  {
   text-align: justify;
+  font-size: 31px;
   color:#2B4547;
   width: 65%;
   margin:auto;
   font-family:ormal;
+  border: 10px solid #DEDCDB;
+  padding-right: 15px;
+  background: #D9F5F5;
 }
 .txt2 {
-    margin-top: 200px;
+    margin-top: 5%;
 }
 
 
