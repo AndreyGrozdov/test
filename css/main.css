@@ -53,15 +53,25 @@ dt:hover{
  }
 
   
- .text  {
+ .text0  {
+  font-size: 25px;
   text-align: center;
-  color:#2B4547;
+  color:#BC3B01;
+  width: 65%;
+  margin:auto;
+  font-family:ormal;
+ }
+
+ .text  {
+  font-size: 25px;
+  text-align: justify;
+  color:#BC3B01;
   width: 65%;
   margin:auto;
   font-family:ormal;
  }
  .txt {
-  margin-top: 120px;
+  margin-top: 100px;
  }
  
   #second {
@@ -77,20 +87,15 @@ dt:hover{
 
   
 
-.text2  {
-  font-size: 40px;
-  text-align: justify;
-  font-size: 31px;
-  color:#2B4547;
-  width: 65%;
-  margin:auto;
-  font-family:ormal;
-  border: 10px solid #DEDCDB;
-  padding-right: 15px;
-  background: #D9F5F5;
-}
-.txt2 {
-    margin-top: 5%;
+
+.position {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    top:3%;
+
+
+
 }
 
 
@@ -163,7 +168,7 @@ dt:hover{
 }
 
 article img{ /*размер изображений слайдера*/
-  width: 80%;
+  width: 100%;
 }
 
 #desktop:checked ~ #slider{ /*размер всего слайдера*/
