@@ -301,14 +301,13 @@ label, a{ /*при наведении на стрелки или переклю�
 
 
 .services_item { 
-position: relative;
 text-align: center;
-width: 25%; // тут посмотри 
+width: 22%; // тут посмотри 
 margin: 50px;
 padding: 20px; 
 display: inline-block;
 vertical-align: top;
-
+vertical-align: text-top;
 }
 
 .text5  {
