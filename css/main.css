@@ -62,7 +62,7 @@ dt:hover{
  }
 
  .text  {
-  font-size: 25px;
+  
   text-align: justify;
   color:#BC3B01;
   width: 65%;
@@ -70,7 +70,7 @@ dt:hover{
   font-family:ormal;
  }
  .txt {
-  margin-top: 150px;
+  margin-top: 80px;
  }
  
   #second {
@@ -296,19 +296,24 @@ label, a{ /*при наведении на стрелки или переклю�
   text-align: center; /* Выравнивание по центру */ 
   margin-top: 0px; /* Отступ сверху */ 
   position: relative; 
-  top:10%; 
+  top:3%; 
 }
 
-.services_item {
 
-  width: 50%;
-  margin: auto;
-  padding:20px;
+.services_item { 
+position: relative;
+text-align: center;
+width: 25%; // тут посмотри 
+margin: 50px;
+padding: 20px; 
+display: inline-block;
+vertical-align: top;
+
 }
 
 .text5  {
   position: relative;
   text-align: center;
   color: #DE5246;
-   top: 7%;
+   top: 3%;
    font-size: 35px;
