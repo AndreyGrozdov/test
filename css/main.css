@@ -305,3 +305,10 @@ label, a{ /*при наведении на стрелки или переклю�
   margin: auto;
   padding:20px;
 }
+
+.text5  {
+  position: relative;
+  text-align: center;
+  color: #DE5246;
+   top: 7%;
+   font-size: 35px;
