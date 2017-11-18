@@ -316,3 +316,41 @@ vertical-align: text-top;
   color: #DE5246;
    top: 3%;
    font-size: 35px;
+
+ }
+
+ .size1{
+  font-size: 80px;
+  text-decoration: none;
+ }
+ .size1:visited {
+    color: #2B4547;
+  }
+
+  .size1:hover {
+    color: #507299;
+  }
+
+   .size2{
+  font-size: 80px;
+  text-decoration: none;
+ }
+ .size2:visited {
+    color: #2B4547;
+  }
+
+  .size2:hover {
+    color: #EE8208;
+  }
+
+   .size3{
+  font-size: 80px;
+  text-decoration: none;
+ }
+ .size3:visited {
+    color: #2B4547;
+  }
+
+  .size3:hover {
+    color:#A47959;
+  }
